@@ -1,0 +1,5 @@
+{
+  "name": "MindMatch Memory Game",
+  "description": "A stylish and interactive memory card game built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
